@@ -20,7 +20,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/re_ofori
-[youtube]: 
 [instagram]: https://www.instagram.com/re_ofori/
 [linkedin]: https://www.linkedin.com/in/richmond-edem-ofori-4939b5141/
 
